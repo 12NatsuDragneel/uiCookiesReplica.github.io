@@ -5,7 +5,7 @@ import Card from '../Card/Card'
 const Love = () => {
   return (
     <div>
-        <div className="Love1 bg-blue-100 h-[250vh]">
+        <div id="reviews" className="Love1 bg-blue-100 h-[250vh]">
         <div className="Love2">
             <h2>
             That’s why 100,000+ Love Frame

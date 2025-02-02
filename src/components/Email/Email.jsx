@@ -3,7 +3,7 @@ import './Email.css'
 const Email = () => {
   return (
     <div>
-        <div className="Email1">
+        <div className="Email1" id="contact">
             <div className="Email2">
                 <h2 >Get In Touch</h2>
                 

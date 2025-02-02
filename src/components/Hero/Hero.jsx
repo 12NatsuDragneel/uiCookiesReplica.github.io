@@ -4,7 +4,7 @@ import '../../index.css';
 
 const Hero = () => {
   return (
-    <div className=''>
+    <div className='' id="home">
       <div className='bg-cover bg-top h-screen bg-hero '>
         <Navbar />
         <div className='container mx-80  mt-20 py-20  w-[90vh]'>
