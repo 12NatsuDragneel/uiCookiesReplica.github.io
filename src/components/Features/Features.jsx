@@ -36,7 +36,7 @@ const Features = () => {
         </p>
         </div>
         <div className='mt-20 ml-10'>
-        <img src="../../../public/Images/img_showcase_2.jpeg" className='w-[120vh] h-[90vh] ml-20 ' alt="" />
+        <img src="Images/img_showcase_2.jpeg" className='w-[120vh] h-[90vh] ml-20 ' alt="" />
         </div>
         <div className='mt-20 '>
           <img src="../../../public/Images/img_showcase_1.jpeg" className='w-[120vh] h-[90vh] ' alt="" /></div>
