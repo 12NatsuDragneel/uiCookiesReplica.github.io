@@ -12,7 +12,7 @@ const Features = () => {
         </div>
         <div className='flex mt-20 flex-wrap'>
         <div className='bg-zinc-900 '>
-        <img src="../../../public/Images/img_showcase_1.jpeg" className='w-[120vh] h-[90vh] ' alt="" />
+        <img src="Images/img_showcase_1.jpeg" className='w-[120vh] h-[90vh] ' alt="" />
         </div>
         <div className='div1 w-[60vh] h-[] ml-20'>
           <h2 className='text-blue-800 text-4xl'>Big Benefits for Small Business</h2>
