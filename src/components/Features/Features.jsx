@@ -12,7 +12,7 @@ const Features = () => {
         </div>
         <div className='flex mt-20 flex-wrap'>
         <div className='bg-zinc-900 '>
-        <img src="../../../public/Images/img_showcase_1.jpeg" className='w-[120vh] h-[90vh] ' alt="" />
+        <img src="public/Images/img_showcase_1.jpeg" className='w-[120vh] h-[90vh] ' alt="" />
         </div>
         <div className='div1 w-[60vh] h-[] ml-20'>
           <h2 className='text-blue-800 text-4xl'>Big Benefits for Small Business</h2>
@@ -36,10 +36,10 @@ const Features = () => {
         </p>
         </div>
         <div className='mt-20 ml-10'>
-        <img src="../../../public/Images/img_showcase_2.jpeg" className='w-[120vh] h-[90vh] ml-20 ' alt="" />
+        <img src="public/Images/img_showcase_2.jpeg" className='w-[120vh] h-[90vh] ml-20 ' alt="" />
         </div>
         <div className='mt-20 '>
-          <img src="../../../public/Images/img_showcase_1.jpeg" className='w-[120vh] h-[90vh] ' alt="" /></div>
+          <img src="public/Images/img_showcase_1.jpeg" className='w-[120vh] h-[90vh] ' alt="" /></div>
         <div className=' w-[60vh] ml-20 mt-20'>
           <h2 className='text-blue-800 text-4xl' >All in One Place</h2>
           <p className='text-zinc-400'>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
